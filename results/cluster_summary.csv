@@ -1,0 +1,3 @@
+kmeans_cluster,pre_shock_mean,shock_peak,shock_increase,june_2020_rate,peak_to_june_change,states,silhouette_score
+0,7.6112351994719685,20.862489759786705,13.251254560314731,8.823280315158994,-12.039209444627708,"Andhra Pradesh, Assam, Chandigarh, Chhattisgarh, Gujarat, Himachal Pradesh, Jammu & Kashmir, Karnataka, Kerala, Madhya Pradesh, Maharashtra, Meghalaya, Odisha, Punjab, Rajasthan, Sikkim, Telangana, Uttar Pradesh, Uttarakhand, West Bengal",0.44445401336022655
+1,13.382509185077973,51.55882847997923,38.176319294901255,18.791966296563487,-32.76686218341574,"Bihar, Delhi, Haryana, Jharkhand, Puducherry, Tamil Nadu, Tripura",0.44445401336022655
